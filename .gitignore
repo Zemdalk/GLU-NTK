@@ -26,7 +26,6 @@ logs_gengap_aug/
 logs_gengap_aug_fig/
 figures_backup/
 rebuttal_figures/
-imgs/
 
 # Local datasets/cache
 data/MNIST/
