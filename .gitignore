@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime logs / temp
+*.log
+*.out
+nohup.out
+tmp/
+
+# Generated experiment artifacts
+generated_plots/
+logs/
+logs_mixer/
+logs_gengap/
+logs_gengap_fig/
+logs_gengap_aug/
+logs_gengap_aug_fig/
+figures_backup/
+rebuttal_figures/
+imgs/
+
+# Local datasets/cache
+data/MNIST/
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+data/tiny-imagenet-200/
