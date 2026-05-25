@@ -4,7 +4,7 @@ Xingyu Lyu, Qianqian Xu, Zhiyong Yang, Peisong Wen, Qingming Huang
 
 ---
 
-This is the official implementation of the paper "The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?" (Accepted by ICML 2026).
+This is the official implementation of the paper "The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?"[arXiv](https://arxiv.org/abs/2605.20749) (Accepted by ICML 2026).
 
 ## Abstract
 
